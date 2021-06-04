@@ -1,59 +1,75 @@
-.swiper-button-next {
+nav .logo {
+    width: 20%;
+}
+nav .name {
+    font-size: 26px;
+}
+nav .sub-name {
+    font-size: 16px;
+}
+header .description {
+    left: 32%;
+    top: 32%;
+    position: relative;
+    text-align: left;
+}
+header .overlay{
+    min-height: 100%;  
+    position: absolute;
+}
+.carousel-item img {
+    width: 100%;
+    height: 700px;
+}
+.carousel-control-prev span {
     background-image: url("resources/images/231c2952345fdd591c308ac805a880a8a47253b6.png");
-    background-size: auto;
+    transform: rotate(180deg);
+    ;
+}
+.carousel-control-next span {
+    background-image: url("resources/images/231c2952345fdd591c308ac805a880a8a47253b6.png");
 }
 .header {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
-    height: 800px;
-    margin-top: 155px;
-}
-.description {
-    left: 32%;
-    position: absolute;
-    top: 32%;
-    /* transform: translate(-50%, -20%); */
-    text-align: left;
+    margin-top: 145px;
 }
 .home {
     background-image: url("resources/images/a01fb945d22083a7bcc9eb667cfe34ed6a3daa8b.jpg");
+    height: 800px;
 }
-.ach {
+.activities {
+    background-image: url("resources/images/ce999326553bab021f3fce59ee704f0b9ba557e9.png");
+    height: 400px;
+}
+.home-alt {
     background-image: url("resources/images/9043de8e2988b4c5ac767fd4dbbb402f6204c3ac.png");
-    opacity: 0.58;
+    /* opacity: 0.7; */
+    height: 400px;
     text-align: center;
 }
-/* a .nav-link:hover {
-    color: blue;
-} */
-.ach button {
-	background: blue;
+.header .btn {
+	background: #3194f7;
 	border-radius: 40;
 	color: #fff;
-}
-.p {
-    font-size: 0.3rem;
 }
 body {
     font: normal 20px 'Courier New', Courier, monospace;
 }
+.p {
+    font-size: 0.3rem;
+}
 .overlay {
-    min-height: 100%;
-    min-width: 100%;
-    position: absolute;
     background: rgba(0, 0, 0, 0.5);
+    min-width: 100%;
+    min-height: 40%;
 }
-.logo {
-    width: 23%;
+.links {
+    height: 100px;
 }
-.name {
-    font-size: 26px;
+div .sosmed {
+    width: 15%;
+    height: 15%;
 }
-.sub-name {
-    font-size: 16px;
-}
-/* .description h1 {
-	color: #6ab446;
-} */
