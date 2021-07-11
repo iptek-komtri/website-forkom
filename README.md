@@ -9,6 +9,9 @@ https://projects.invisionapp.com/prototype/Forkom-TRI-Mockup-Website-ckkjxu3pi00
 ## Link ke halaman website
 https://iptek-komtri.github.io/website-forkom/
 
+## Panduan ikut berkontribusi pengembangan website forkom dengan github
+_coming soon_
+
 ## Keterangan
 
 Website Forkom harus memiliki informasi deskripsi organisasi, kabinet yang sedang
