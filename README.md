@@ -1,5 +1,5 @@
 # Website Forkom
-Website Forkom TRI dengan Bootstrap 4
+Website Forkom TRI dibangun menggunakan Framework Bootstrap 4
 
 ## Desain UI
 
