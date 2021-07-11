@@ -3,6 +3,8 @@ Website Forkom TRI dibangun menggunakan Framework Bootstrap 4
 
 _Untuk saat ini projek masih static web, pengembangan backend coming soon_
 
+**Ayo Implementasikan Ilmu Web Development Mu dan Ikut Berkontribusi Ke FORKOM TRI**
+
 ## Desain UI
 https://projects.invisionapp.com/prototype/Forkom-TRI-Mockup-Website-ckkjxu3pi001w9s01dh54klwm/play/d4d1099d
 
@@ -47,4 +49,4 @@ Ryan Fajri
 - Email : ryan.fajri045@mail.ugm.ac.id
 
 
-**Ayo Implementasikan Ilmu Web Development Mu dan Ikut Berkontribusi Ke FORKOM TRI**
+
