@@ -39,3 +39,12 @@ Warga TRI dengan selalu memperbarui konten dan juga mendengarkan apa saja
 fitur yang dapat diperbarui, dengan adanya informasi yang sesuai demand maka
 akan semakin memenuhi kebutuhan juga bagi para penggunanya.
 
+## CP
+Kami sangat terbuka dengan masukan-masukan yang ada untuk pengembangan website FORKOM TRI SV UGM.
+
+Ryan Fajri
+- WA : 082215607433
+- Email : ryan.fajri045@mail.ugm.ac.id
+
+
+**Ayo Implementasikan Ilmu Web Development Mu dan Ikut Berkontribusi Ke FORKOM TRI**
