@@ -34,5 +34,5 @@ apabila bisa adalah tampilan website tersebut versi mobile.
 Website FORKOM TRI dapat dimanfaatkan untuk memberi manfaat pada
 Warga TRI dengan selalu memperbarui konten dan juga mendengarkan apa saja
 fitur yang dapat diperbarui, dengan adanya informasi yang sesuai demand maka
-akan semakin memenuhi kebutuhan juga bagi para penggunanya
+akan semakin memenuhi kebutuhan juga bagi para penggunanya.
 
